@@ -1,0 +1,9 @@
+E:\Aaronguo\test\ExcelReadWrite\ExcelRead\bin\Debug\ExcelRead.exe.config
+E:\Aaronguo\test\ExcelReadWrite\ExcelRead\bin\Debug\ExcelRead.exe
+E:\Aaronguo\test\ExcelReadWrite\ExcelRead\bin\Debug\ExcelRead.pdb
+E:\Aaronguo\test\ExcelReadWrite\ExcelRead\obj\Debug\ExcelRead.csprojResolveAssemblyReference.cache
+E:\Aaronguo\test\ExcelReadWrite\ExcelRead\obj\Debug\ExcelRead.Form1.resources
+E:\Aaronguo\test\ExcelReadWrite\ExcelRead\obj\Debug\ExcelRead.Properties.Resources.resources
+E:\Aaronguo\test\ExcelReadWrite\ExcelRead\obj\Debug\ExcelRead.csproj.GenerateResource.Cache
+E:\Aaronguo\test\ExcelReadWrite\ExcelRead\obj\Debug\ExcelRead.exe
+E:\Aaronguo\test\ExcelReadWrite\ExcelRead\obj\Debug\ExcelRead.pdb
